@@ -1,0 +1,14 @@
+The idea of this project is to replace Oh No Robot, who seems to have problem, no more maintenance, and which is really closed.
+
+It should be both possible to use it by installing it on one's website or by making a server for many comic.
+
+Hopefully, the task he would do would be:
+
+-If the comic is transcribben: write the text in the page for search motor
+-Else ask the reader to transcribe it
+-Ask the admin to validate OR
+-Ask two other reader to validate/edit it (and so on)
+
+-import (and export) Oh No Robot's database.
+
+
